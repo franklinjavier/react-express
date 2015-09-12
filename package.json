@@ -1,0 +1,31 @@
+{
+  "name": "react-express",
+  "version": "1.0.0",
+  "description": "Building a Full-Stack App with React and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinjavier/react-express.git"
+  },
+  "author": "Franklin Javier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklinjavier/react-express/issues"
+  },
+  "homepage": "https://github.com/franklinjavier/react-express#readme",
+  "dependencies": {
+    "browser-sync": "^2.9.3",
+    "browserify": "^11.1.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "guid": "0.0.12",
+    "gulp": "^3.9.0",
+    "gulp-live-server": "0.0.28",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
